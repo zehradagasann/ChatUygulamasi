@@ -40,7 +40,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin.
 
 1.  **Depoyu klonlayın:**
     ```bash
-    git clone https://github.com/KULLANICI-ADINIZ/DEPO-ADINIZ.git
+    git clone https://github.com/zehradagasann/ChatUygulamasi.git
     ```
 
 2.  **Visual Studio'da açın:**
